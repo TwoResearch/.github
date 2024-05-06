@@ -1,5 +1,17 @@
 ## Welcome to Two Developer Platform 👋
 
+TWO's developer API offers versatile solutions across a broad spectrum of tasks, powered by our advanced SUTRA models. These generative AI models are the technology backbone of TWO’s products and are accessible through simple-to-integrate APIs, featuring usage-based pricing for apps and services seeking to leverage our technology
+
+Explore our key offerings, features and easy to integrate API:
+
+- Experiment in the [playground](https://playground.two.ai)
+- Read the [API reference](api-reference)
+- Read more [about capabilities](https://docs.two.ai/capabilities/multilingual)
+- Check out our [competitive pricing](https://share.two.ai/sutrapricing)
+- Code for [sample apps](https://github.com/TwoResearch/sutra-examples) can be found on our github page.
+- How SUTRA [compares to other models](https://docs.two.ai/comparisons/sutravsgpt)
+
+
 <!--
 
 **Here are some ideas to get you started:**
