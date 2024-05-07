@@ -1,4 +1,4 @@
-## Welcome to Two Developer Platform 👋
+## Welcome to TWO Developer Platform 👋
 
 TWO's developer API offers versatile solutions across a broad spectrum of tasks, powered by our advanced SUTRA models. These generative AI models are the technology backbone of TWO’s products and are accessible through simple-to-integrate APIs, featuring usage-based pricing for apps and services seeking to leverage our technology
 
