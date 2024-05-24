@@ -5,7 +5,7 @@ TWO's developer API offers versatile solutions across a broad spectrum of tasks,
 Explore our key offerings, features and easy to integrate API:
 
 - Experiment in the [playground](https://playground.two.ai)
-- Read the [API reference]([api-reference](https://docs.two.ai/api-reference/introduction))
+- Read the [API reference](https://docs.two.ai/api-reference/introduction)
 - Read more [about capabilities](https://docs.two.ai/capabilities/multilingual)
 - Check out our [competitive pricing](https://share.two.ai/sutrapricing)
 - Code for [sample apps](https://github.com/TwoResearch/sutra-examples) can be found on our github page.
